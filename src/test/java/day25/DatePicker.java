@@ -11,6 +11,11 @@ public class DatePicker {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
+//		char[] arr = {'1', '2', '3'};
+//		int i = 1;
+//		int digit = arr[i] - '0'; 
+//		System.out.println(digit);
+		
 		String expectedMonth ="August 2025";
 		String date ="1";
 		
